@@ -1,0 +1,31 @@
+
+# Chapter 1 - Placeholder
+
+## Heading {#sec-1}
+
+Placeholder text
+
+::: {.callout-tip collapse="false"}
+### Placeholder title
+
+Quarto has built-in callout boxes. 
+
+:::
+
+## Activities
+
+### Quiz
+
+```{r echo = FALSE, message = FALSE}
+library("exams2forms")
+```
+
+```{r choice, echo = FALSE, message = FALSE, results = "asis"}
+exams2forms(c("assets/quiz/dm_q1.md", 
+              "assets/quiz/dm_q2.md", 
+              "assets/quiz/dm_q3.md"))
+```
+
+## Additional Resources
+
+More resources are available in the Appendix page.

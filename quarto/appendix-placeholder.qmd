@@ -1,0 +1,274 @@
+
+# Additional Resources {.unnumbered}
+
+```{=html}
+ <details name="resource" class="resource" id="section1">
+  <summary class="resource-summary">Chapter 1 - Introduction</summary>
+<h2>Other open research supports?</h2>
+<p><a href="https://www.fosteropenscience.eu/toolkit" target="_blank">Foster open science toolkit</a></p>
+<p><a href="https://www.bristol.ac.uk/psychology/research/ukrn/" target="_blank">UKRN (UK Reproducibility Network)</a></p>
+<p><a href="https://reproducibilitea.org/" target="_blank">ReproducibiliTea page</a></p>
+<p><a href="https://www.kcl.ac.uk/events/series/riot-science-club" target="_blank">RIOT Science Club</a> <a href="https://sparceurope.org/wp-content/uploads/2017/02/Social-sciences-BP-final-PDF.pdf" target="_blank">Open Access in the Social Sciences (SPARC Europe)</a></p>
+<p><a href="https://osf.io/?utm_term=&amp;utm_campaign=OSF+General&amp;utm_source=adwords&amp;utm_medium=ppc&amp;hsa_acc=5222345373&amp;hsa_cam=217339509&amp;hsa_grp=60774351098&amp;hsa_ad=295172720879&amp;hsa_src=g&amp;hsa_tgt=dsa-520694377169&amp;hsa_kw=&amp;hsa_mt=b&amp;hsa_net=adwords&amp;hsa_ver=3&amp;gclid=Cj0KCQjwhb36BRCfARIsAKcXh6GD2qkaPxWz2UNCFNRJFNjC8at4gi2rZldRTs3vrtTsIYx6MHoM8WsaAs79EALw_wcB" target="_blank">Open Science Forum (OSF), The Place to Share your Research</a></p>
+<p><a href="https://opensciencemooc.eu/" target="_blank">Open Science MOOCs</a></p>
+<p><a href="https://www.fosteropenscience.eu/toolkit" target="_blank">Foster Open Science Toolkit</a></p>
+<h2>On the prevalence of questionable research practices</h2>
+<p>Banks, G. C., Rogelberg, S. G., Woznyj, H. M., Landis, R. S., &amp; Rupp, D. E. (2016). Evidence on questionable research practices: The good, the bad, and the ugly. <a href="https://link.springer.com/article/10.1007/s10869-016-9456-7" target="_blank">https://link.springer.com/article/10.1007/s10869-016-9456-7</a></p>
+<p>Ioannidis, J. P. (2005). Why most published research findings are false. PLoS medicine, 2(8), e124 <a href="https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.0020124" target="_blank">https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.0020124</a></p>
+<h2>On the value of open science principles</h2>
+<p>McKiernan, E. C., Bourne, P. E., Brown, C. T., Buck, S., Kenall, A., Lin, J., ... &amp; Spies, J. R. (2016). Point of view: How open science helps researchers succeed. elife, 5, e16800. <a href="https://elifesciences.org/articles/16800" target="_blank">https://elifesciences.org/articles/16800</a></p>
+<h2>On reproducibility</h2>
+<p>Goodman, S. N., Fanelli, D., &amp; Ioannidis, J. P. (2016). What does research reproducibility mean?. Science translational medicine, 8(341), 341ps12-341ps12 <a href="https://stm.sciencemag.org/content/8/341/341ps12" target="_blank">https://stm.sciencemag.org/content/8/341/341ps12</a></p>
+<p>Munafò, M., Nosek, B., Bishop, D. et al. A manifesto for reproducible science. Nat Hum Behav 1, 0021(2017). <a href="https://doi.org/10.1038/s41562-016-0021" target="_blank">https://doi.org/10.1038/s41562-016-0021</a></p>
+<p>Prinz, F., Schlange, T., &amp; Asadullah, K. (2011). Believe it or not: how much can we rely on published data on potential drug targets?. Nature reviews Drug discovery, 10(9), 712-712 <a href="https://www.nature.com/articles/nrd3439-c1" target="_blank">https://www.nature.com/articles/nrd3439-c1</a></p>
+<h2>On doing open research</h2>
+<p>Crüwell, S., van Doorn, J., Etz, A., Makel, M. C., Moshontz, H., Niebaum, J. C., ... &amp; Schulte-Mecklenbeck, M. (2019). Seven Easy Steps to Open Science. Zeitschrift für Psychologie. <a href="https://psycnet.apa.org/fulltext/2019-80290-002.html" target="_blank">https://psycnet.apa.org/fulltext/2019-80290-002.html</a></p>
+<h2>On encouraging open research culture</h2>
+<p>Kidwell, M. C., Lazarević, L. B., Baranski, E., Hardwicke, T. E., Piechowski, S., Falkenberg, L. S., ... &amp; Errington, T. M. (2016). Badges to acknowledge open practices: A simple, low-cost, effective method for increasing transparency. PLoS biology, 14(5), e1002456. <a href="https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.1002456" target="_blank">https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.1002456</a></p>
+<h2>Videos</h2>
+<p><a href="https://www.youtube.com/watch?v=c-bemNZ-IqA" target="_blank">Video</a> on how open research can help fix broken research culture.</p>
+<p><a href="https://www.youtube.com/watch?v=dVoz_QlYQUE" target="_blank">TedX talk</a> about memory</p>
+
+</details> 
+
+<script>
+function openTarget() {
+  var hash = location.hash.substring(1);
+  if(hash) var details = document.getElementById(hash);
+  if(details && details.tagName.toLowerCase() === 'details') details.open = true;
+}
+window.addEventListener('hashchange', openTarget);
+openTarget();
+</script>
+```
+
+
+```{=html}
+ <details name="resource" class="resource" id="section2">
+  <summary class="resource-summary">Chapter 2 - Research Integrity </summary>
+<p>Want to know more about...</p>
+<h2>Research Integrity Guidance?</h2>
+<p>Take a look at <a href="https://allea.org/code-of-conduct/" target="_blank">European Code of Conduct for Research Integrity</a></p>
+<h2>How to present data with integrity?</h2>
+<p>See the Office of Research Integrity <a href="https://ori.hhs.gov/sites/default/files/2017-12/6_Image_Manipulation.pdf" target="_blank">guidelines here</a></p>
+<h2>Current issues in research integrity?</h2>
+<p>Read the <a href="https://scienceintegritydigest.com/" target="_blank">Science Integrity Digest blog</a> by Dr Elisabeth Bik</p>
+<h2>The state of research integrity and science and how to improve it?</h2>
+<p>Titus, S., Wells, J. &amp; Rhoades, L. Repairing research integrity (2008). Nature, 453, 980–982.<a href="https://doi.org/10.1038/453980a" target="_blank"> https://doi.org/10.1038/453980a</a></p>
+<h2>Whose responsibility is research integrity?</h2>
+<p>Mitcham, C. Co-responsibility for research integrity (2003). Science and Engineering Ethics, 9, 273–290.<a href="https://doi.org/10.1007/s11948-003-0014-0" target="_blank"> https://doi.org/10.1007/s11948-003-0014-0</a> </p>
+
+<h2>Research integrity and public trust in data?</h2>
+<p><a href="https://www.youtube.com/watch?v=JSV4VZ8gdUQ" target="_blank">TEDTalk: Trust in research -- the ethics of knowledge production</a> This is a clear 12-minute talk on research integrity.</p>
+<p><a href="https://time.com/5175704/andrew-wakefield-vaccine-autism/" target="_blank">The Vaccine-Autism Myth Started 20 Years Ago. Here&#39;s Why It Still Endures Today</a> This is a short article outlining a good example of the importance of trust in research</p>
+
+<h2>Practices that undermine research integrity?</h2>
+<p>Take a look at this <a href="https://www.youtube.com/watch?v=x_MsPvgetxw" target="_blank">video on threats to research integrity</a></p>
+<p>Read <a href="https://www.theguardian.com/science/2015/feb/18/haruko-obokata-stap-cells-controversy-scientists-lie" target="_blank">this newspaper article</a> outlining a case of research misconduct</p>
+
+<h2>How common questionable research practices are?</h2>
+<p>John, L. K., Loewenstein, G., &amp; Prelec, D. (2012). Measuring the prevalence of questionable research practices with incentives for truth telling. Psychological Science, 23(5), 524-532. <a href="https://journals.sagepub.com/doi/10.1177/0956797611430953" target="_blank">https://journals.sagepub.com/doi/10.1177/0956797611430953</a></p>
+
+</details> 
+
+
+<script>
+function openTarget() {
+  var hash = location.hash.substring(1);
+  if(hash) var details = document.getElementById(hash);
+  if(details && details.tagName.toLowerCase() === 'details') details.open = true;
+}
+window.addEventListener('hashchange', openTarget);
+openTarget();
+</script>
+```
+
+```{=html}
+ <details name="resource" class="resource" id="section3">
+  <summary class="resource-summary">Chapter 3 - Pre-registration</summary>
+<p>Want to know more about...</p>
+<h2>The purpose of pre-registering a study?</h2>
+<p>Take a look at this <a href="https://www.youtube.com/watch?v=fcQu8BkxCqU" target="_blank">short introductory video</a> on pre-registration: Introduction to Pre-registration</p>
+<p>Read this newspaper article titled: <a href="https://www.theguardian.com/science/blog/2013/jun/05/trust-in-science-study-pre-registration" target="_blank">Trust in science would be improved by study pre-registration</a></p>
+<p><a href="https://www.psychologicalscience.org/observer/seven-selfish-reasons-for-preregistration" target="_blank">Read about: Seven Selfish Reasons for Pre-registration</a></p>
+<p>And this brief outline of why pre-registration is <a href="https://www.cos.io/blog/preregistration-plan-not-prison" target="_blank">A Plan, Not a Prison</a></p>
+<h2>How to pre-register?</h2>
+<p><a href="https://osf.io/8v2n7/" target="_blank">Pre-registration and Registered Reports: A primer from UKRN</a> Additional resources on Pre-registration are also available through the <a href="https://www.cos.io/initiatives/prereg" target="_blank">Center for Open Science</a></p>
+<p><em>What journals give a digital badge for pre-registration?</em> See <a href="https://www.cos.io/our-services/badges" target="_blank">OSF-Badges</a> for this list</p>
+<p><em>How to navigate OSF?</em> This short video on <a href="https://www.youtube.com/watch?v=2TV21gOzfhw&amp;t=18s" target="_blank">Getting started with OSF: Sign up, navigate OSF, register your study</a></p>
+<p>Supplemental Reading</p>
+<h2>The benefits of registered reports and pre-registration, including for students</h2>
+<p>Pownall, M. (2020, February 24). Pre-Registration in the Undergraduate Dissertation: A Critical Discussion. <a href="https://doi.org/10.31234/osf.io/egbcv" target="_blank">https://doi.org/10.31234/osf.io/egbcv</a></p>
+<p>Hobson, H. (2019). Registered reports are an ally to early career researchers. Nature Human Behaviour, 3, 1010. <a href="https://doi.org/10.1038/s41562-019-0701-8" target="_blank">https://doi.org/10.1038/s41562-019-0701-8</a></p>
+<p>Nosek, B.A., Beck, E.D., Campbell, L., Flake, J.K., Hardwicke, T.E., Mellor, D.T., van't Veer, A.E., &amp; Vazire, S. (2019). pre-registration Is Hard, And Worthwhile. Trends in Cognitive Sciences, 23(10), 815-818. <a href="https://doi.org/10.1016/j.tics.2019.07.009" target="_blank">https://doi.org/10.1016/j.tics.2019.07.009</a></p>
+<h2>On the uses, pitfalls, and potential successors to the Pre-registration model</h2>
+<p>Yamada, Y. (2018). How to Crack Pre-registration: Toward Transparent and Open Science. Frontiers in Psychology, 9, 1831. <a href="https://doi.org/10.3389/fpsyg.2018.01831" target="_blank">https://doi.org/10.3389/fpsyg.2018.01831</a></p>
+
+<h2>On the role of pre-registration in improving the integrity of research, even when data is pre-existing</h2>
+<p>Nosek, B. A., Ebersole, C. R., DeHaven, A. C., &amp; Mellor, D. T. (2018). The Pre-registration revolution. Proceedings of the National Academy of Sciences of the United States of America, 115(11), 2600–2606. <a href="https://doi.org/10.1073/pnas.1708274114" target="_blank">https://doi.org/10.1073/pnas.1708274114</a></p>
+<h2>On the benefits and appropriateness of pre-registration in qualitative studies</h2>
+<p>Haven, T.L., &amp; Van Grootel, L. (2019). pre-registering qualitative research. Policies and Quality Assurance, 26(3), 229-244. <a href="https://doi.org/10.1080/08989621.2019.1580147" target="_blank">https://doi.org/10.1080/08989621.2019.1580147</a></p>
+
+</details> 
+
+
+<script>
+function openTarget() {
+  var hash = location.hash.substring(1);
+  if(hash) var details = document.getElementById(hash);
+  if(details && details.tagName.toLowerCase() === 'details') details.open = true;
+}
+window.addEventListener('hashchange', openTarget);
+openTarget();
+</script>
+```
+
+```{=html}
+ <details name="resource" class="resource" id="section4">
+  <summary class="resource-summary">Chapter 4 - Data Management</summary>
+<p>Want to know more about...</p>
+
+<h2>Open data and data repositories?</h2>
+<p>Take a look at this handy guide on selecting a data repository: <a href="https://www.openaire.eu/opendatapilot-repository-guide" target="_blank">OpenAIRE Guide for Researchers: How to Select a Data Repository</a></p>
+<p>You can read about some concerns and challenges of using open data repositories here <a href="https://crln.acrl.org/index.php/crlnews/article/view/24273/32092" target="_blank">Open data repositories: current risks and opportunities</a></p>
+<p>One researcher’s experience of sharing data? Don’t worry, its not as scary as the name of this blogpost suggests: <a href="https://statsepi.substack.com/p/open-science-is-really-scary-yall" target="_blank">Open Science is really scary y’all</a></p>
+<h2>On the challenges of open data sharing</h2>
+<p>This article discusses some perceived barriers to open data sharing in psychology (but is relevant across disciplines) Houtkoop, B. L., Chambers, C., Macleod, M., Bishop, D. V., Nichols, T. E., &amp; Wagenmakers, E. J. (2018). Data sharing in psychology: A survey on barriers and preconditions. Advances in methods and practices in psychological science, 1(1), 70-85. <a href="https://doi.org/10.1177/2515245917751886" target="_blank">https://doi.org/10.1177/2515245917751886</a></p>
+<h2>Data management and archiving for qualitative data?</h2>
+<p><a href="https://onlinelibrary.wiley.com/doi/full/10.1111/jocn.13443" target="_blank">This paper</a> outlines how software like NVivo can be used to manage your qualitative data</p>
+<p>You can also check out the <a href="https://www.maynoothuniversity.ie/iqda/data-resources/resources-researchers target="_blank"">Irish Qualitative Data Archive</a>, which provides lots of useful information and resources</p>
+<p>Or take a look at the <a href="https://qdr.syr.edu/guidance/human-participants/access-controls" target="_blank">Qualitative Data Repository</a></p>
+<p>This paper outlines some challenges with making some qualitative data open: Chauvette et al. (2019). Open data in qualitative research. International Journal of Qualitative Methods, 18. <a href="https://doi.org/10.1177/1609406918823863" target="_blank">https://doi.org/10.1177/1609406918823863</a></p>
+<p>This paper presents an examination of repository guidelines for sharing qualitative data Antes et al. (2018). Examining data repository guidelines for qualitative data sharing. Journal of Empirical Research on Human Research Ethics, 13(1), 61-73. <a href="https://doi.org/10.1177/1556264617744121" target="_blank">https://doi.org/10.1177/1556264617744121</a></p>
+<h2>Use of spreadsheets for data management</h2>
+<p>This is a handy article outlining practical recommendations for organizing spreadsheet data. Broman, K. &amp; Woo, K (2018). Data organization in spreadsheets. The American Statistician, 72(1), 2-10. <a href="https://doi.org/10.1080/00031305.2017.1375989" target="_blank">https://doi.org/10.1080/00031305.2017.1375989</a></p>
+<h2>Discipline-specific Research Data Management?</h2>
+<p>Take a look at the <a href="https://www.scienceeurope.org/media/nsxdyvqn/se_guidance_document_rdmps.pdf" target="_blank">Science Europe Guidance Document: Presenting a Framework for Discipline-specific Research Data Management</a>. This looks like a long document but there is an over-all section, followed by discipline-specific sections that will be of more, or less, relevance to you.</p>
+
+<h2>The use of FAIR Principles?</h2>
+<p>This article clarifies what FAIRness is, and what it is not Mons et al.(2017) ‘Cloudy, Increasingly FAIR; Revisiting the FAIR Data Guiding Principles for the European Open Science Cloud’. Information Services and Use, 49 – 56. <a href="https://doi.org/10.3233/ISU-170824" target="_blank">https://doi.org/10.3233/ISU-170824</a></p>
+<p>This article discusses the FAIR principles and presents useful examples of their use: Wilkinson et al. The FAIR Guiding Principles for scientific data management and stewardship. Sci Data 3, 160018 (2016). <a href="https://doi.org/10.1038/sdata.2016.18" target="_blank">https://doi.org/10.1038/sdata.2016.18</a></p>
+<h2>How research data management, FAIR and Open are related to each other?</h2>
+<p>This article clarifies presents the overlaps and distinctions between these three concepts Higman R, Bangert D and Jones S, “Three camps, one destination: the intersections of research data management, FAIR and Open”, Insights, 2019, 32: 18, 1–9; DOI: <a href="http://doi.org/10.1629/uksg.468" target="_blank">http://doi.org/10.1629/uksg.468</a></p>
+<h2>Resources for data management in University College Cork</h2>
+<p>The <a href="https://libguides.ucc.ie/researchdataservice/home" target="_blank">UCC Research Data Service</a> provides information, including videos and resources.</p>
+
+</details> 
+
+
+<script>
+function openTarget() {
+  var hash = location.hash.substring(1);
+  if(hash) var details = document.getElementById(hash);
+  if(details && details.tagName.toLowerCase() === 'details') details.open = true;
+}
+window.addEventListener('hashchange', openTarget);
+openTarget();
+</script>
+```
+
+```{=html}
+ <details name="resource" class="resource" id="section5">
+  <summary class="resource-summary">Chapter 5 - Reproducible Research Practices</summary>
+
+<p>Want to know more about...</p>
+<h2>The reproducibility crisis?</h2>
+<p>Check out this comic strip about the reproducibility crisis; it focuses on psychology but is relevant across disciplines: <a href="https://thenib.com/repeat-after-me/" target="_blank">Repeat After Me: A Cartoon about Reproducibility in Psychology</a></p>
+<p>This blog gives a nice overview, and includes reference to the power posing study we mentioned earlier: <a href="https://fivethirtyeight.com/features/failure-is-moving-science-forward/" target="_blank">Failure is Moving Science Forward: The replication crisis is a sign that science is working</a></p>
+<p>Take a look at this short video about the ‘reproducibility crisis’. The focus in the video is on science but even if you are not studying science, it presents a useful overview and interesting examples of existing reproducibility issues that are relevant across research disciplines.</p>
+<p><a href="https://ed.ted.com/lessons/is-there-a-reproducibility-crisis-in-science-matt-anticole" target="_blank"><img src="images/clipboard-3582904851.png" width="30%"></a></p>
+
+<h2>Reproducibility in qualitative research and the humanities</h2>
+<p>This paper gives an overview and practical guidelines for reproducibility in the humanities: Peels, R., Bouter, L. (2018). The possibility and desirability of replication in the humanities. Palgrave Commun 4, 95. <a href="https://doi.org/10.1057/s41599-018-0149-x" target="_blank">https://doi.org/10.1057/s41599-018-0149-x</a></p>
+<p>The paper outlines 12 transparency criteria for qualitative work that can help boost transparency and reproducibility: Aguinis, H. &amp; Solarino, A.M. (2019). Transparency and replicability in qualitative research: The case of interviews with elite informants. Strategic Management Journal, 40(8), 1291-1315. <a href="https://doi.org/10.1002/smj.3015" target="_blank">https://doi.org/10.1002/smj.3015</a></p>
+
+<h2>How to make your research more transparent and/or reproducible?</h2>
+<p>Robert Peng’s 3-part Video Checklist for Reproducible Research can help. There are three parts, about 10 minutes each: <a href="https://www.youtube.com/watch?v=pjL2uP-fmPY" target="_blank">1</a>, <a href="https://www.youtube.com/watch?v=VOaN33aAcEw" target="_blank">2</a>, and <a href="https://www.youtube.com/watch?v=SppP5TXnmwc" target="_blank">3</a></p>
+<p>The relationship between registered reports and reproducibility? We introduced registered reports in Module 2 and this video draws a link between registered reports and reproducibility <a href="https://www.youtube.com/watch?v=bmfpgwoDW5w" target="_blank">Registered Reports as a tool for improving research transparency and reproducibility</a></p>
+<h2>Strategies for minimising normal human biases in research</h2>
+<p>This paper details one researchers experiences and gives tips on how we can ‘fight our own worst instincts’ in research: Nuzzo, R. (2015). Fooling ourselves. Nature, 526(7572), 182-185. <a href="https://www.nature.com/news/how-scientists-fool-themselves-and-how-they-can-stop-1.18517" target="_blank">https://www.nature.com/news/how-scientists-fool-themselves-and-how-they-can-stop-1.18517</a></p>
+<p><strong>Software for reproducibility</strong> Take a look at this ‘toolkit’, which focuses mainly on computational reproducibility: Perkel, J.M. (2018). A toolkit for data transparency takes shape. Nature, 560(7719), 513-515. <a href="https://doi.org/10.1038/d41586-018-05990-5" target="_blank">https://doi.org/10.1038/d41586-018-05990-5</a></p>
+<h2>Large-scale reproducibility evaluations</h2>
+<p>The links below give an overview of some large-scale projects and let you take a look at some of the reproducibility studies that have been conducted <a href="https://osf.io/ezcuj/" target="_blank">Reproducibility Project: Psychology</a> <a href="https://osf.io/wx7ck/" target="_blank">Many Labs Replication Project</a> <a href="https://replicationindex.com/" target="_blank">Replicability Index</a></p>
+<h2>The Power Posing example we introduced earlier</h2>
+<p>This article gives an overview of the power posing research, including criticisms and support of the findings <a href="https://www.forbes.com/sites/kimelsesser/2018/04/03/power-posing-is-back-amy-cuddy-successfully-refutes-criticism/?sh=37adefbe3b8e" target="_blank">Power Posing is Back: Amy Cuddy Successfully Refutes Criticism</a></p>
+
+</details> 
+
+
+<script>
+function openTarget() {
+  var hash = location.hash.substring(1);
+  if(hash) var details = document.getElementById(hash);
+  if(details && details.tagName.toLowerCase() === 'details') details.open = true;
+}
+window.addEventListener('hashchange', openTarget);
+openTarget();
+</script>
+```
+
+```{=html}
+ <details name="resource" class="resource" id="section6">
+  <summary class="resource-summary">Chapter 6 - Open Reporting</summary>
+
+<details name="six" class="chill">
+<summary>Choosing the right reporting guidelines for your research?</summary>
+<p>Take a look at the <a href="https://www.equator-network.org/toolkits/selecting-the-appropriate-reporting-guideline/" target="_blank">Equator Network: Selecting the appropriate reporting guidelines for your work</a></p>
+</details>
+<details name="six" class="chill">
+<summary>How reporting guidelines are developed</summary>
+<p>The Equator Network toolkit for developing a reporting guideline shows the steps involved: <a href="https://www.equator-network.org/toolkits/developing-a-reporting-guideline/" target="_blank">Equator Network: Developing a Reporting Guideline</a></p>
+</details>
+<details name="six" class="chill">
+<summary>The impact of reporting guidelines on reporting practices</summary>
+<p>This paper outlines the impact in Public Health specifically but may be of interest more broadly: Mannocci, A., et al. (2015). What is the impact of reporting guidelines on Public Health journals in Europe? The case of STROBE, CONSORT and PRISMA, Journal of Public Health, 37(4), 737-740. <a href="https://doi.org/10.1093/pubmed/fdu108" target="_blank">https://doi.org/10.1093/pubmed/fdu108</a></p>
+</details>
+<details name="six" class="chill">
+<summary>Strategies for reporting research decisions transparently</summary>
+<p>This paper focuses on statistical reporting: Wicherts, J. M., et al. (2016). Degrees of freedom in planning, running, analyzing, and reporting psychological studies: A checklist to avoid p-hacking. Frontiers in Psychology, 7, 1832. <a href="https://doi.org/10.3389/fpsyg.2016.01832" target="_blank">https://doi.org/10.3389/fpsyg.2016.01832</a></p>
+</details>
+</details> 
+
+<script>
+function openTarget() {
+  var hash = location.hash.substring(1);
+  if(hash) var details = document.getElementById(hash);
+  if(details && details.tagName.toLowerCase() === 'details') details.open = true;
+}
+window.addEventListener('hashchange', openTarget);
+openTarget();
+</script>
+```
+
+```{=html}
+ <details name="resource" class="resource" id="section7">
+  <summary class="resource-summary">Chapter 7 - Open Knowledge Dissemination</summary>
+  
+<h2>How to make knowledge dissemination more open</h2>
+<p>Read this preprint called <a href="https://arxiv.org/abs/1205.1055#:~:text=Opening%20scientific%20communication,-Brian%20A.&amp;text=We%20outline%20a%20path%20that,of%20public%20science%20%2D%20knowledge%20accumulation" target="_blank">Scientific Utopia: I. Opening Scientific Communication</a>. The title says ‘science’, but it is relevant across disciplines and some sections expand on what we covered here.</p>
+<h2>The benefits of sharing research openly</h2>
+<p>Read this report on ‘<a href="https://elifesciences.org/articles/16800" target="_blank">How Open Science Helps Researchers Succeed</a>’. Again, this is relevant across disciplines, not just science.</p>
+
+<h2>Inclusivity in open research</h2>
+<p>Take a look a this openly available presentation on why: <a href="https://zenodo.org/record/4264797#.YToNBWZKhKN" target="_blank">good open science must be inclusive</a></p>
+
+<h2>The benefits of pre-prints for early career researchers?</h2>
+<p>Read this paper on the benefits of pre-prints for early career researchers: <a href="https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3000151" target="_blank">On the value of preprints: An early career researcher perspective</a>.</p>
+<p>What journals support open access? You can check out the <a href="https://doaj.org/" target="_blank">Directory of Open Access Journals</a> which is a free online directory of open access journals You can also look at <a href="https://v2.sherpa.ac.uk/romeo/" target="_blank">Sherpa Romeo</a> which is an online resource containing information on publisher open access policies</p>
+
+<h2>How to visually present your research?</h2>
+<p>This paper on <a href="https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005845" target="_blank">Ten simple tips for drawing scientific comics</a> gives a great step by step guide (with pictures) for how to draw your research in comic form. Again this is applicable across disciplines, and is a lot of fun!</p>
+<p>Or take a look at <a href="https://www.pasaloproject.org/" target="_blank">The Pásalo Project: Dissemination of knowledge via the arts</a>, which is an organisation of professionals from different disciplines who have come together to disseminate information through the arts.</p>
+
+</details> 
+
+<script>
+function openTarget() {
+  var hash = location.hash.substring(1);
+  if(hash) var details = document.getElementById(hash);
+  if(details && details.tagName.toLowerCase() === 'details') details.open = true;
+}
+window.addEventListener('hashchange', openTarget);
+openTarget();
+</script>
+```

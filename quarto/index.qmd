@@ -1,0 +1,73 @@
+
+# Welcome {.unnumbered}
+
+Welcome message here. 
+
+## Acknowledgment {.unnumbered}
+
+Enter acknowledgments here. 
+
+::: {.red title="License" icon="false"}
+This Quarto book is licensed with a [Creative Commons CC-BY 4.0 license](https://creativecommons.org/licenses/by/4.0/){target="_blank"}.
+:::
+
+### Citation {.unnumbered}
+
+Cite this book as:
+
+LastName, FirstName (2025). Quarto Book Template. FORRT [https://www.forrt.org](https://www.forrt.org)
+
+### Contact us {.unnumbered}
+
+If you have questions or suggestions for this Quarto book, please email <span style="background:#c9e9f4;">info [at] forrt [dot] org</span>. 
+
+## Discover More About FORRT
+
+Whether you are a student curious about open science or an educator looking to integrate it into your classes, FORRT offers tools, community, and guidance to support your journey.
+
+```{=html}
+<table>
+  <colgroup>
+    <col style="width: 7%;">
+    <col style="width: 18%;">
+    <col style="width: 7%;">
+    <col style="width: 18%;">
+    <col style="width: 7%;">
+    <col style="width: 18%;">
+    <col style="width: 7%;">
+    <col style="width: 18%;">
+  </colgroup>
+  
+  <tr>
+    <td><img src="assets/social/email.svg" alt="Email" width="38" height="38"/></td>
+    <td><span class="smaller">Email</span><br><a class="smallest" href="mailto:info@forrt.org">info@forrt.org</a></td>
+    <td><img src="assets/social/forrt.svg" alt="Website" width="38" height="38"/></td>
+    <td><span class="smaller">Website</span><br><a class="smallest" href="https://forrt.org/ ">forrt.org</a></td>
+    <td><img src="assets/social/linkedin.svg" alt="Linkedin" width="38" height="38"/></td>
+    <td><span class="smaller">Linkedin</span><br><a class="smallest" href="https://uk.linkedin.com/company/forrt">Follow Us</a></td>
+    <td><img src="assets/social/youtube.svg" alt="Youtube" width="38" height="38"/></td>
+    <td><span class="smaller">Youtube</span><br><a class="smallest" href="https://www.youtube.com/@forrtproject9995">Subscribe</a></td>
+  </tr>
+  <tr>
+    <td><img src="assets/social/x.svg" alt="X, formerly Twitter" width="33" height="33"/></td>
+    <td><span class="smaller">X</span><br><a class="smallest" href="https://x.com/@FORRTproject">@FORRTproject</a></td>
+    <td><img src="assets/social/Bluesky.svg" alt="Bluesky" width="38" height="38"/></td>
+    <td><span class="smaller">Bluesky</span><br><a class="smallest" href="https://bsky.app/profile/forrt.bsky.social">Connect with us</a></td>
+    <td><img src="assets/social/OSF.svg" alt="OSF" width="38" height="38"/></td>
+    <td><span class="smaller">OSF</span><br><a class="smallest" href="https://osf.io/mb46h/">Visit our page</a></td>
+    <td><img src="assets/social/facebook.svg" alt="Facebook" width="38" height="38"/></td>
+    <td><span class="smaller">Facebook</span><br><a class="smallest" href="https://www.facebook.com/profile.php?id=100079008639536 ">Find us there</a></td>
+  </tr>
+  <tr>
+    <td><img src="assets/social/Slack.svg" alt="Slack" width="38" height="38"/></td>
+    <td><span class="smaller">Slack</span><br><a class="smallest" href="https://join.slack.com/t/forrt/shared_invite/zt-alobr3z7-NOR0mTBfD1vKXn9qlOKqaQ">Join the Conversation</a></td>
+    <td><img src="assets/social/instagram.svg" alt="Instagram" width="35" height="35"/></td>
+    <td><span class="smaller">Instagram</span><br><a class="smallest" href="https://www.instagram.com/forrtproject/">See what we are up to</a></td>
+    <td><img src="assets/social/mastodon.svg" alt="Mastodon" width="35" height="35"/></td>
+    <td><span class="smaller">Mastodon</span><br><a class="smallest" href="https://mastodon.social/@FORRT">Follow us</a></td>
+    <td><img src="assets/social/google_scholar.svg" alt="Google Scholar" width="35" height="35"/></td>
+    <td><span class="smaller">Google Scholar</span><br><a class="smallest" href="https://scholar.google.com/citations?user=JrBcgGMAAAAJ&hl=en&authuser=1">Check out our citations</a></td>
+    
+  </tr>
+</table>
+```

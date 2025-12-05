@@ -1,0 +1,58 @@
+project:
+  type: book
+  output-dir: _book
+
+book:
+  title: "Quarto Book Template"  
+  author:
+    - name: FirstName LastName
+      email: name@domain.com
+      corresponding: true
+      orcid: 0000-1234-5678-0000
+      affiliations:
+        - name: University Name
+          department: Department Name
+    - name: FirstName LastName
+      url: https://www.forrt.org
+      affiliations: University Name
+  sidebar: 
+    title: Template Quarto Book
+    logo: "https://forrt.org/img/FORRT.svg"
+    background: "#FEFDF6"
+    foreground: "#800080"
+  issue-url: https://github.com/forrtproject/
+  repo-url: https://github.com/forrtproject/
+  #please enter correct URLs for Github issue and repo links to work
+  repo-actions: [issue, edit]
+  chapters:
+    - part: "Welcome"
+      chapters: 
+        - index.qmd
+    - part: "Chapters"
+      chapters:
+        - chapter1-placeholder.qmd
+    - part: "Appendix"
+      chapters:
+        - appendix-placeholder.qmd
+
+number-sections: true
+format:
+  html:
+    theme: cosmo
+    page-layout: full
+    css: 
+    - styles.css
+    - include/webex.css
+    include-after-body: 
+    - include/webex.js
+    linestretch: 1.75
+editor: source
+toc: true
+toc-depth: 4
+include-after-body: "footer.html"
+from: markdown+emoji
+include-in-header:
+  - text: |
+      <link rel = "shortcut icon" href = "assets/forrt_icon.png" />
+  - text: |
+      <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css">
